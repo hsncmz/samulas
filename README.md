@@ -1,4 +1,4 @@
 samulas
 =======
 
-Samsun bölgesinde ulaşıma yardımcı olabilecek mobil android uygulaması
+Samsun bölgesinde ulaşıma yardımcı olabilecek mobil android uygulamasıdır.
